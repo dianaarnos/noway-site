@@ -5,7 +5,7 @@
 .wrapper {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 1fr 100%;
+    grid-template-rows: 450px 200px;
 }
 
 .box-logo {
